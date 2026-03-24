@@ -242,8 +242,8 @@ export default function PodcastClient() {
       <div className="container">
         <div className="hero">
           <div>
-            <h1>Rss播客</h1>
-            <p>Rss订阅YouTuBe频道转播客</p>
+            <h1>Listen Now</h1>
+            <p>把更新留给 RSS，把注意力留给声音</p>
           </div>
 
           <div className="hero-actions">

@@ -17,6 +17,18 @@ export const FEEDS: FeedSource[] = [
     title: '游牧夫妻',
     subtitle: '来自 RSSYes 的 YouTube / 播客源',
     url: 'https://rssyes.com/yt-rss/UC-wmAIbxpQu69c3DcjgB4FQ.xml'
+  },
+  {
+    id: 'feed-3',
+    title: 'Vic TALK',
+    subtitle: '来自 RSSYes 的 YouTube / 播客源',
+    url: 'https://rssyes.com/yt-rss/UC0Qj2CZsALJRivClNuDStlA.xml'
+  },
+  {
+    id: 'feed-4',
+    title: '中日政经评论',
+    subtitle: '来自 RSSYes 的 YouTube / 播客源',
+    url: 'https://rssyes.com/yt-rss/UCcQYrNiWlG7XQyooF4-b0iA.xml'
   }
 ];
 

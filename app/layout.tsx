@@ -2,8 +2,8 @@ import './globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Rss播客',
-  description: '基于 RSS 的简洁播客前端'
+  title: 'Listen Now',
+  description: '把更新留给 RSS，把注意力留给声音'
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
