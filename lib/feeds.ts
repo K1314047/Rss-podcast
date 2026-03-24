@@ -29,6 +29,12 @@ export const FEEDS: FeedSource[] = [
     title: '中日政经评论',
     subtitle: '来自 RSSYes 的 YouTube / 播客源',
     url: 'https://rssyes.com/yt-rss/UCcQYrNiWlG7XQyooF4-b0iA.xml'
+  },
+  {
+    id: 'feed-5',
+    title: '新官场',
+    subtitle: '来自 RSSYes 的 YouTube / 播客源',
+    url: 'https://rssyes.com/yt-rss/UC1QxOK5YpyAyFCN_xiPfgHw.xml'
   }
 ];
 
