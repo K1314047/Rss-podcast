@@ -35,6 +35,12 @@ export const FEEDS: FeedSource[] = [
     title: '新官场',
     subtitle: '来自 RSSYes 的 YouTube / 播客源',
     url: 'https://rssyes.com/yt-rss/UC1QxOK5YpyAyFCN_xiPfgHw.xml'
+  },
+  {
+    id: 'feed-6',
+    title: '胆子不小的郑吉祥',
+    subtitle: '来自 RSSYes 的 YouTube / 播客源',
+    url: 'https://rssyes.com/yt-rss/UCvK1KEJWQFT-FtCX9ANeAaQ.xml'
   }
 ];
 
