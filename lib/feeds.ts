@@ -41,6 +41,12 @@ export const FEEDS: FeedSource[] = [
     title: '胆子不小的郑吉祥',
     subtitle: '来自 RSSYes 的 YouTube / 播客源',
     url: 'https://rssyes.com/yt-rss/UCvK1KEJWQFT-FtCX9ANeAaQ.xml'
+  },
+  {
+    id: 'feed-7',
+    title: '百靈果News',
+    subtitle: '来自 RSSYes 的 YouTube / 播客源',
+    url: 'https://rssyes.com/yt-rss/UCD2KoUc0f4Bv2Bz0mbOah8g.xml'
   }
 ];
 
