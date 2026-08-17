@@ -45,7 +45,7 @@ export const FEEDS: FeedSource[] = [
   {
     id: 'feed-7',
     title: '重重电波',
-    subtitle: '一档怕走夜路的人也可以听的罪案播客',
+    subtitle: '来自 RSSYes 的 YouTube / 播客源',
     url: 'https://feed.xyzfm.space/epcnnjpdrk7y'
   }
 ];
