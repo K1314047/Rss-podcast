@@ -44,8 +44,26 @@ export const FEEDS: FeedSource[] = [
   },
   {
     id: 'feed-7',
-    title: '重重电波',
+    title: '霓达播客',
     subtitle: '来自 RSSYes 的 YouTube / 播客源',
+    url: 'https://feed.xyzfm.space/xlgejk3wbj8q'
+  },
+  {
+    id: 'feed-8',
+    title: '悬而已决',
+    subtitle: '来自 RSSYes 的 YouTube / 播客源',
+    url: 'https://feed.xyzfm.space/6w8ghb38c3tv'
+  },
+  {
+    id: 'feed-9',
+    title: '肥话连篇',
+    subtitle: '来自 RSSYes 的 YouTube / 播客源',
+    url: 'https://www.ximalaya.com/album/56109512.xml'
+  },
+  {
+    id: 'feed-10',
+    title: '重重电波',
+    subtitle: '一档怕走夜路的人也可以听的罪案播客',
     url: 'https://feed.xyzfm.space/epcnnjpdrk7y'
   }
 ];
